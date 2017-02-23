@@ -10,6 +10,7 @@
     "axios": "^0.15.3",
     "chai": "~1.4.2",
     "mocha": "*",
+    "nock": "^0.34.1",
     "supertest": "^3.0.0",
     "supertest-as-promised": "^4.0.2"
   },

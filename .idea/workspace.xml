@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9c7e8c9-03d4-450d-bf3d-06ad704058cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/Asynch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/notugly.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/twillio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/uglyasynch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/asynchcoffee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/bestcallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/howgeneraterworks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/modals/asynchee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/modals/generators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/modals/readfilepromise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/readallfiles.inparralel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/readfilessequentiallycallbacks.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beerlocker/Asynch.html" afterPath="$PROJECT_DIR$/beerlocker/Asynch.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,81 +30,144 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1995">
-              <caret line="133" column="1" lean-forward="false" selection-start-line="133" selection-start-column="1" selection-end-line="133" selection-end-column="1" />
+            <state relative-caret-position="375">
+              <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="asynch.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/asynch.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
-              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="19" />
-              <folding>
-                <element signature="e#406#448#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="remotedata.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/remotedata.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-              <folding>
-                <element signature="e#721#763#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="asynch-broken.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/asynch-broken.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="57" lean-forward="true" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="asynch-each.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/asynch-each.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding>
-                <element signature="e#1086#1128#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="asynch-parallel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/asynch-parallel.js">
+      <file leaf-file-name="readallfiles.inparralel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beerlocker/readallfiles.inparralel.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
-              <caret line="33" column="65" lean-forward="true" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
+              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding>
-                <element signature="e#1017#1059#0" expanded="false" />
+                <marker date="1487876322000" expanded="true" signature="113:1079" ph="{...}" />
+                <marker date="1487876322000" expanded="true" signature="130:188" ph="{...}" />
+                <marker date="1487876322000" expanded="true" signature="194:1077" ph="{...}" />
+                <marker date="1487876322000" expanded="true" signature="342:443" ph="{...}" />
+                <marker date="1487876322000" expanded="true" signature="520:1071" ph="{...}" />
+                <marker date="1487876322000" expanded="true" signature="615:1059" ph="{...}" />
+                <marker date="1487876322000" expanded="true" signature="646:716" ph="{...}" />
+                <marker date="1487876322000" expanded="true" signature="722:849" ph="{...}" />
+                <marker date="1487876322000" expanded="true" signature="920:1045" ph="{...}" />
+                <marker date="1487876322000" expanded="false" signature="1081:1123" ph="/** Created by mukadder on 2/23/17. ...*/" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uglyasynch.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/uglyasynch.js">
+      <file leaf-file-name="readfilessequentiallycallbacks.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beerlocker/readfilessequentiallycallbacks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="420">
+              <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
               <folding>
-                <element signature="e#528#570#0" expanded="false" />
+                <marker date="1487876497000" expanded="false" signature="0:42" ph="/** Created by mukadder on 2/23/17. ...*/" />
+                <marker date="1487876497000" expanded="true" signature="175:1008" ph="{...}" />
+                <marker date="1487876497000" expanded="true" signature="194:254" ph="{...}" />
+                <marker date="1487876497000" expanded="true" signature="260:1006" ph="{...}" />
+                <marker date="1487876497000" expanded="true" signature="410:976" ph="{...}" />
+                <marker date="1487876497000" expanded="true" signature="453:601" ph="{...}" />
+                <marker date="1487876497000" expanded="true" signature="607:965" ph="{...}" />
+                <marker date="1487876497000" expanded="true" signature="677:949" ph="{...}" />
+                <marker date="1487876497000" expanded="true" signature="712:805" ph="{...}" />
+                <marker date="1487876497000" expanded="true" signature="811:931" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readfilepromise.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beerlocker/modals/readfilepromise.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="89" column="45" lean-forward="false" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+              <folding>
+                <marker date="1487876642000" expanded="true" signature="76:109" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="127:179" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="220:476" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="320:451" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="343:391" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="397:445" ph="{...}" />
+                <marker date="1487876642000" expanded="false" signature="476:518" ph="/** Created by mukadder on 2/23/17. ...*/" />
+                <marker date="1487876642000" expanded="true" signature="808:1317" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="915:977" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="1031:1241" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="1108:1164" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="1261:1312" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="1337:1378" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="1880:1918" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="1936:2125" ph="//..." />
+                <marker date="1487876642000" expanded="true" signature="2152:2422" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="2218:2287" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="2293:2416" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="2429:2559" ph="//..." />
+                <marker date="1487876642000" expanded="true" signature="2585:2631" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="2668:2732" ph="{...}" />
+                <marker date="1487876642000" expanded="true" signature="2750:2802" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bestcallback.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beerlocker/bestcallback.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <marker date="1487877370000" expanded="false" signature="0:42" ph="/** Created by mukadder on 2/23/17. ...*/" />
+                <marker date="1487877370000" expanded="true" signature="109:448" ph="{...}" />
+                <marker date="1487877370000" expanded="true" signature="141:229" ph="{...}" />
+                <marker date="1487877370000" expanded="true" signature="260:349" ph="{...}" />
+                <marker date="1487877370000" expanded="true" signature="400:439" ph="{...}" />
+                <marker date="1487877370000" expanded="true" signature="495:583" ph="{...}" />
+                <marker date="1487877370000" expanded="true" signature="509:558" ph="{...}" />
+                <marker date="1487877370000" expanded="true" signature="906:1133" ph="{...}" />
+                <marker date="1487877370000" expanded="true" signature="1162:1317" ph="{...}" />
+                <marker date="1487877370000" expanded="true" signature="1180:1241" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generators.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beerlocker/modals/generators.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="64" column="24" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+              <folding>
+                <marker date="1487882572000" expanded="true" signature="0:291" ph="/*...*/" />
+                <marker date="1487882572000" expanded="true" signature="306:1043" ph="/*...*/" />
+                <marker date="1487882572000" expanded="true" signature="1044:1587" ph="/*...*/" />
+                <marker date="1487882572000" expanded="true" signature="1612:1769" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="asynchee.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beerlocker/modals/asynchee.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="38" />
+              <folding>
+                <marker date="1487883010000" expanded="true" signature="96:489" ph="{...}" />
+                <marker date="1487883010000" expanded="true" signature="102:171" ph="//..." />
+                <marker date="1487883010000" expanded="true" signature="177:332" ph="//..." />
+                <marker date="1487883010000" expanded="true" signature="385:485" ph="{...}" />
+                <marker date="1487883010000" expanded="true" signature="513:698" ph="{...}" />
+                <marker date="1487883010000" expanded="true" signature="548:604" ph="{...}" />
+                <marker date="1487883010000" expanded="true" signature="734:1083" ph="{...}" />
+                <marker date="1487883010000" expanded="true" signature="796:875" ph="{...}" />
+                <marker date="1487883010000" expanded="true" signature="926:1079" ph="{...}" />
+                <marker date="1487883010000" expanded="true" signature="975:1013" ph="{...}" />
+                <marker date="1487883010000" expanded="false" signature="1278:1320" ph="/** Created by mukadder on 2/23/17. ...*/" />
               </folding>
             </state>
           </provider>
@@ -109,33 +176,53 @@
       <file leaf-file-name="Asynch.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beerlocker/Asynch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="133" selection-end-column="1" />
+            <state relative-caret-position="615">
+              <caret line="135" column="58" lean-forward="false" selection-start-line="135" selection-start-column="58" selection-end-line="135" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="notugly.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/notugly.js">
+      <file leaf-file-name="asynchcoffee.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beerlocker/asynchcoffee.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="609">
+              <caret line="82" column="2" lean-forward="false" selection-start-line="82" selection-start-column="2" selection-end-line="82" selection-end-column="2" />
               <folding>
-                <element signature="e#428#470#0" expanded="false" />
+                <marker date="1487886731000" expanded="false" signature="2:44" ph="/** Created by mukadder on 2/23/17. ...*/" />
+                <marker date="1487886731000" expanded="true" signature="73:122" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="123:333" ph="/*...*/" />
+                <marker date="1487886731000" expanded="true" signature="363:467" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="431:463" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="468:759" ph="/*...*/" />
+                <marker date="1487886731000" expanded="true" signature="788:1007" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="856:1003" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="903:995" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="1009:1487" ph="/*...*/" />
+                <marker date="1487886731000" expanded="true" signature="1525:2084" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="1593:2080" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="1640:2072" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="1755:1928" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="1850:1914" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="2086:2391" ph="/*...*/" />
+                <marker date="1487886731000" expanded="true" signature="2429:3166" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="2497:3162" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="2544:3154" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="2566:2654" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="2660:3144" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="2787:2984" ph="{...}" />
+                <marker date="1487886731000" expanded="true" signature="2894:2966" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twillio.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/twillio.js">
+      <file leaf-file-name="howgeneraterworks.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/beerlocker/howgeneraterworks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="e#520#562#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,8 +232,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -193,8 +280,16 @@
         <option value="$PROJECT_DIR$/beerlocker/notugly.js" />
         <option value="$PROJECT_DIR$/beerlocker/twillio.js" />
         <option value="$PROJECT_DIR$/beerlocker/uglyasynch.js" />
-        <option value="$PROJECT_DIR$/beerlocker/Asynch.html" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/beerlocker/readallfiles.inparralel.js" />
+        <option value="$PROJECT_DIR$/beerlocker/readfilessequentiallycallbacks.js" />
+        <option value="$PROJECT_DIR$/beerlocker/modals/readfilepromise.js" />
+        <option value="$PROJECT_DIR$/beerlocker/bestcallback.js" />
+        <option value="$PROJECT_DIR$/beerlocker/modals/generators.js" />
+        <option value="$PROJECT_DIR$/beerlocker/modals/asynchee.js" />
+        <option value="$PROJECT_DIR$/beerlocker/Asynch.html" />
+        <option value="$PROJECT_DIR$/beerlocker/asynchcoffee.js" />
+        <option value="$PROJECT_DIR$/beerlocker/howgeneraterworks.js" />
       </list>
     </option>
   </component>
@@ -210,9 +305,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="236" />
+    <option name="x" value="1428" />
     <option name="y" value="123" />
-    <option name="width" value="2165" />
+    <option name="width" value="973" />
     <option name="height" value="1177" />
   </component>
   <component name="ProjectView">
@@ -271,20 +366,20 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
-  <component name="RunManager" selected="Node.js.notugly.js">
-    <configuration default="false" name="asynch-broken.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="asynch-broken.js" working-dir="$PROJECT_DIR$/beerlocker">
+  <component name="RunManager" selected="Node.js.howgeneraterworks.js">
+    <configuration default="false" name="readfilepromise.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="readfilepromise.js" working-dir="$PROJECT_DIR$/beerlocker/modals">
       <method />
     </configuration>
-    <configuration default="false" name="asynch-each.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="asynch-each.js" working-dir="$PROJECT_DIR$/beerlocker">
+    <configuration default="false" name="bestcallback.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="bestcallback.js" working-dir="$PROJECT_DIR$/beerlocker">
       <method />
     </configuration>
-    <configuration default="false" name="asynch-parallel.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="asynch-parallel.js" working-dir="$PROJECT_DIR$/beerlocker">
+    <configuration default="false" name="generators.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="generators.js" working-dir="$PROJECT_DIR$/beerlocker/modals">
       <method />
     </configuration>
-    <configuration default="false" name="uglyasynch.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="uglyasynch.js" working-dir="$PROJECT_DIR$/beerlocker">
+    <configuration default="false" name="asynchee.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="asynchee.js" working-dir="$PROJECT_DIR$/beerlocker/modals">
       <method />
     </configuration>
-    <configuration default="false" name="notugly.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="notugly.js" working-dir="$PROJECT_DIR$/beerlocker">
+    <configuration default="false" name="howgeneraterworks.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="howgeneraterworks.js" working-dir="$PROJECT_DIR$/beerlocker">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -347,19 +442,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.asynch-broken.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.asynch-each.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.asynch-parallel.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.uglyasynch.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.notugly.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.readfilepromise.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.bestcallback.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.generators.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.asynchee.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.howgeneraterworks.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.notugly.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.uglyasynch.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.asynch-parallel.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.asynch-each.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.asynch-broken.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.howgeneraterworks.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.asynchee.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.generators.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.bestcallback.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.readfilepromise.js" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +472,7 @@
       <workItem from="1487781005377" duration="7092000" />
       <workItem from="1487858253285" duration="4463000" />
       <workItem from="1487867374611" duration="46000" />
-      <workItem from="1487867426123" duration="2727000" />
+      <workItem from="1487867426123" duration="6577000" />
     </task>
     <servers />
   </component>
@@ -390,13 +485,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14883000" />
+    <option name="totallyTimeSpent" value="18733000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="236" y="123" width="2165" height="1177" extended-state="0" />
+    <frame x="1428" y="123" width="973" height="1177" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26865673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2394958" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -428,50 +523,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/converter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/converter.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pad.js" />
-    <entry file="file://$PROJECT_DIR$/test/pad.js" />
-    <entry file="file://$PROJECT_DIR$/test/record.js" />
     <entry file="file://$PROJECT_DIR$/test/fixtures/lookupLocation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -589,9 +640,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -610,9 +659,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-          <folding>
-            <element signature="e#335#377#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -644,9 +691,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-          <folding>
-            <element signature="e#721#763#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -662,9 +707,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-135">
           <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="19" />
-          <folding>
-            <element signature="e#406#448#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -672,9 +715,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#1086#1128#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -682,9 +723,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="65" lean-forward="true" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
-          <folding>
-            <element signature="e#1017#1059#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -692,9 +731,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#428#470#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -702,9 +739,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#520#562#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -712,24 +747,183 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#528#570#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beerlocker/Asynch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="133" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
-          <caret line="133" column="1" lean-forward="false" selection-start-line="133" selection-start-column="1" selection-end-line="133" selection-end-column="1" />
+        <state relative-caret-position="375">
+          <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/readallfiles.inparralel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <marker date="1487876322000" expanded="true" signature="113:1079" ph="{...}" />
+            <marker date="1487876322000" expanded="true" signature="130:188" ph="{...}" />
+            <marker date="1487876322000" expanded="true" signature="194:1077" ph="{...}" />
+            <marker date="1487876322000" expanded="true" signature="342:443" ph="{...}" />
+            <marker date="1487876322000" expanded="true" signature="520:1071" ph="{...}" />
+            <marker date="1487876322000" expanded="true" signature="615:1059" ph="{...}" />
+            <marker date="1487876322000" expanded="true" signature="646:716" ph="{...}" />
+            <marker date="1487876322000" expanded="true" signature="722:849" ph="{...}" />
+            <marker date="1487876322000" expanded="true" signature="920:1045" ph="{...}" />
+            <marker date="1487876322000" expanded="false" signature="1081:1123" ph="/** Created by mukadder on 2/23/17. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/readfilessequentiallycallbacks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <marker date="1487876497000" expanded="false" signature="0:42" ph="/** Created by mukadder on 2/23/17. ...*/" />
+            <marker date="1487876497000" expanded="true" signature="175:1008" ph="{...}" />
+            <marker date="1487876497000" expanded="true" signature="194:254" ph="{...}" />
+            <marker date="1487876497000" expanded="true" signature="260:1006" ph="{...}" />
+            <marker date="1487876497000" expanded="true" signature="410:976" ph="{...}" />
+            <marker date="1487876497000" expanded="true" signature="453:601" ph="{...}" />
+            <marker date="1487876497000" expanded="true" signature="607:965" ph="{...}" />
+            <marker date="1487876497000" expanded="true" signature="677:949" ph="{...}" />
+            <marker date="1487876497000" expanded="true" signature="712:805" ph="{...}" />
+            <marker date="1487876497000" expanded="true" signature="811:931" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/modals/readfilepromise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="89" column="45" lean-forward="false" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+          <folding>
+            <marker date="1487876642000" expanded="true" signature="76:109" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="127:179" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="220:476" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="320:451" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="343:391" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="397:445" ph="{...}" />
+            <marker date="1487876642000" expanded="false" signature="476:518" ph="/** Created by mukadder on 2/23/17. ...*/" />
+            <marker date="1487876642000" expanded="true" signature="808:1317" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="915:977" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="1031:1241" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="1108:1164" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="1261:1312" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="1337:1378" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="1880:1918" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="1936:2125" ph="//..." />
+            <marker date="1487876642000" expanded="true" signature="2152:2422" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="2218:2287" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="2293:2416" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="2429:2559" ph="//..." />
+            <marker date="1487876642000" expanded="true" signature="2585:2631" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="2668:2732" ph="{...}" />
+            <marker date="1487876642000" expanded="true" signature="2750:2802" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/bestcallback.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <marker date="1487877370000" expanded="false" signature="0:42" ph="/** Created by mukadder on 2/23/17. ...*/" />
+            <marker date="1487877370000" expanded="true" signature="109:448" ph="{...}" />
+            <marker date="1487877370000" expanded="true" signature="141:229" ph="{...}" />
+            <marker date="1487877370000" expanded="true" signature="260:349" ph="{...}" />
+            <marker date="1487877370000" expanded="true" signature="400:439" ph="{...}" />
+            <marker date="1487877370000" expanded="true" signature="495:583" ph="{...}" />
+            <marker date="1487877370000" expanded="true" signature="509:558" ph="{...}" />
+            <marker date="1487877370000" expanded="true" signature="906:1133" ph="{...}" />
+            <marker date="1487877370000" expanded="true" signature="1162:1317" ph="{...}" />
+            <marker date="1487877370000" expanded="true" signature="1180:1241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/modals/generators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="64" column="24" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+          <folding>
+            <marker date="1487882572000" expanded="true" signature="0:291" ph="/*...*/" />
+            <marker date="1487882572000" expanded="true" signature="306:1043" ph="/*...*/" />
+            <marker date="1487882572000" expanded="true" signature="1044:1587" ph="/*...*/" />
+            <marker date="1487882572000" expanded="true" signature="1612:1769" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/modals/asynchee.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <marker date="1487883010000" expanded="true" signature="96:489" ph="{...}" />
+            <marker date="1487883010000" expanded="true" signature="102:171" ph="//..." />
+            <marker date="1487883010000" expanded="true" signature="177:332" ph="//..." />
+            <marker date="1487883010000" expanded="true" signature="385:485" ph="{...}" />
+            <marker date="1487883010000" expanded="true" signature="513:698" ph="{...}" />
+            <marker date="1487883010000" expanded="true" signature="548:604" ph="{...}" />
+            <marker date="1487883010000" expanded="true" signature="734:1083" ph="{...}" />
+            <marker date="1487883010000" expanded="true" signature="796:875" ph="{...}" />
+            <marker date="1487883010000" expanded="true" signature="926:1079" ph="{...}" />
+            <marker date="1487883010000" expanded="true" signature="975:1013" ph="{...}" />
+            <marker date="1487883010000" expanded="false" signature="1278:1320" ph="/** Created by mukadder on 2/23/17. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/Asynch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="135" column="58" lean-forward="false" selection-start-line="135" selection-start-column="58" selection-end-line="135" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/asynchcoffee.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="82" column="2" lean-forward="false" selection-start-line="82" selection-start-column="2" selection-end-line="82" selection-end-column="2" />
+          <folding>
+            <marker date="1487886731000" expanded="false" signature="2:44" ph="/** Created by mukadder on 2/23/17. ...*/" />
+            <marker date="1487886731000" expanded="true" signature="73:122" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="123:333" ph="/*...*/" />
+            <marker date="1487886731000" expanded="true" signature="363:467" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="431:463" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="468:759" ph="/*...*/" />
+            <marker date="1487886731000" expanded="true" signature="788:1007" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="856:1003" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="903:995" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="1009:1487" ph="/*...*/" />
+            <marker date="1487886731000" expanded="true" signature="1525:2084" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="1593:2080" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="1640:2072" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="1755:1928" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="1850:1914" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="2086:2391" ph="/*...*/" />
+            <marker date="1487886731000" expanded="true" signature="2429:3166" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="2497:3162" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="2544:3154" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="2566:2654" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="2660:3144" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="2787:2984" ph="{...}" />
+            <marker date="1487886731000" expanded="true" signature="2894:2966" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/howgeneraterworks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
           <folding />
         </state>
       </provider>

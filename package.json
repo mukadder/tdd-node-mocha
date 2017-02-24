@@ -19,6 +19,7 @@
     "node-fetch": "^1.6.3",
     "node-xhr": "^1.0.5",
     "remote-data-js": "^0.2.1",
+    "rsvp": "^3.3.3",
     "supertest": "^3.0.0",
     "supertest-as-promised": "^4.0.2",
     "xmlhttprequest": "^1.8.0"

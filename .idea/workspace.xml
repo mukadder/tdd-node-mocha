@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9c7e8c9-03d4-450d-bf3d-06ad704058cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/synchronuscode/Async/Await (ES7).js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/synchronuscode/Generators/Yields.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/synchronuscode/promises.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/synchronuscode/synchronous.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/synchronuscode/withcallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/Qlibarary/firstQ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/Qlibarary/promiseindetail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/Qlibarary/repos.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/javascriptPromiseTimeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/rsvp.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fetch api/AggregatingPromises.js" afterPath="$PROJECT_DIR$/fetch api/AggregatingPromises.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fetch api/PromisesNepotism.js" afterPath="$PROJECT_DIR$/fetch api/PromisesNepotism.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fetch api/fetch.js" afterPath="$PROJECT_DIR$/fetch api/fetch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fetch api/multiplepromises.js" afterPath="$PROJECT_DIR$/fetch api/multiplepromises.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fetch api/promise.js" afterPath="$PROJECT_DIR$/fetch api/promise.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fetch api/promiseasynch.js" afterPath="$PROJECT_DIR$/fetch api/promiseasynch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fetch api/timeoutpromises.js" afterPath="$PROJECT_DIR$/fetch api/timeoutpromises.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,95 +33,61 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="asynchcoffee.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/asynchcoffee.js">
+      <file leaf-file-name="promise.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetch api/promise.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="82" column="2" lean-forward="false" selection-start-line="82" selection-start-column="2" selection-end-line="82" selection-end-column="2" />
+            <state relative-caret-position="42">
+              <caret line="34" column="77" lean-forward="false" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="howgeneraterworks.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/howgeneraterworks.js">
+      <file leaf-file-name="multiplepromises.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetch api/multiplepromises.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
+            <state relative-caret-position="207">
+              <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="weirdgenerator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weirdgenerator.js">
+      <file leaf-file-name="AggregatingPromises.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetch api/AggregatingPromises.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="145" column="9" lean-forward="true" selection-start-line="145" selection-start-column="9" selection-end-line="145" selection-end-column="9" />
-              <folding>
-                <element signature="e#462#504#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2385">
-              <caret line="159" column="24" lean-forward="false" selection-start-line="159" selection-start-column="24" selection-end-line="159" selection-end-column="24" />
-              <folding>
-                <element signature="e#3538#3580#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="7" lean-forward="false" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+            <state relative-caret-position="150">
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="synchronous.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/synchronuscode/synchronous.js">
+      <file leaf-file-name="PromisesNepotism.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetch api/PromisesNepotism.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="25" />
+              <caret line="37" column="32" lean-forward="false" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="withcallback.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/synchronuscode/withcallback.js">
+      <file leaf-file-name="timeoutpromises.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetch api/timeoutpromises.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-48">
-              <caret line="0" column="75" lean-forward="false" selection-start-line="0" selection-start-column="75" selection-end-line="0" selection-end-column="75" />
+            <state relative-caret-position="540">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="promises.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/synchronuscode/promises.js">
+      <file leaf-file-name="firstQ.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetch api/Qlibarary/firstQ.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Yields.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/synchronuscode/Generators/Yields.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
               </folding>
@@ -121,11 +95,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Await (ES7).js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/synchronuscode/Async/Await (ES7).js">
+      <file leaf-file-name="promiseindetail.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetch api/Qlibarary/promiseindetail.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="173" lean-forward="false" selection-start-line="6" selection-start-column="173" selection-end-line="6" selection-end-column="173" />
+            <state relative-caret-position="0">
+              <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+              <folding>
+                <element signature="e#137#179#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rsvp.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetch api/rsvp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="e#473#515#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="javascriptPromiseTimeout.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fetch api/javascriptPromiseTimeout.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="43" column="796" lean-forward="false" selection-start-line="43" selection-start-column="796" selection-end-line="43" selection-end-column="796" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="repos.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetch api/Qlibarary/repos.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -141,24 +151,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>temp</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/delayed-map-test.js" />
-        <option value="$PROJECT_DIR$/test/maybe-first-test.js" />
-        <option value="$PROJECT_DIR$/test/promised-map-test.js" />
-        <option value="$PROJECT_DIR$/test/server-test.js" />
-        <option value="$PROJECT_DIR$/lib/server.js" />
-        <option value="$PROJECT_DIR$/test/server-second.test.js" />
-        <option value="$PROJECT_DIR$/test/converter.test.js" />
-        <option value="$PROJECT_DIR$/lib/fact.js" />
-        <option value="$PROJECT_DIR$/test/fact.test.js" />
-        <option value="$PROJECT_DIR$/mocha-babel.js" />
-        <option value="$PROJECT_DIR$/test/babel-mocha-test.js" />
-        <option value="$PROJECT_DIR$/lib/funcs.js" />
         <option value="$PROJECT_DIR$/test/contact.js" />
         <option value="$PROJECT_DIR$/test/pad.js" />
         <option value="$PROJECT_DIR$/test/fixtures/lookupLocation.js" />
@@ -195,9 +198,21 @@
         <option value="$PROJECT_DIR$/beerlocker/index.html" />
         <option value="$PROJECT_DIR$/synchronuscode/synchronous.js" />
         <option value="$PROJECT_DIR$/synchronuscode/withcallback.js" />
-        <option value="$PROJECT_DIR$/synchronuscode/promises.js" />
         <option value="$PROJECT_DIR$/synchronuscode/Generators/Yields.js" />
         <option value="$PROJECT_DIR$/synchronuscode/Async/Await (ES7).js" />
+        <option value="$PROJECT_DIR$/synchronuscode/promises.js" />
+        <option value="$PROJECT_DIR$/fetch api/fetch.js" />
+        <option value="$PROJECT_DIR$/fetch api/promise.js" />
+        <option value="$PROJECT_DIR$/fetch api/promiseasynch.js" />
+        <option value="$PROJECT_DIR$/fetch api/multiplepromises.js" />
+        <option value="$PROJECT_DIR$/fetch api/AggregatingPromises.js" />
+        <option value="$PROJECT_DIR$/fetch api/PromisesNepotism.js" />
+        <option value="$PROJECT_DIR$/fetch api/timeoutpromises.js" />
+        <option value="$PROJECT_DIR$/fetch api/Qlibarary/firstQ.js" />
+        <option value="$PROJECT_DIR$/fetch api/Qlibarary/repos.txt" />
+        <option value="$PROJECT_DIR$/fetch api/Qlibarary/promiseindetail.js" />
+        <option value="$PROJECT_DIR$/fetch api/rsvp.js" />
+        <option value="$PROJECT_DIR$/fetch api/javascriptPromiseTimeout.js" />
       </list>
     </option>
   </component>
@@ -213,9 +228,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1428" />
+    <option name="x" value="891" />
     <option name="y" value="123" />
-    <option name="width" value="973" />
+    <option name="width" value="1510" />
     <option name="height" value="1177" />
   </component>
   <component name="ProjectView">
@@ -257,43 +272,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="synchronuscode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tdd-node-mocha" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tdd-node-mocha" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="synchronuscode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Generators" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tdd-node-mocha" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tdd-node-mocha" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="synchronuscode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Async" />
+              <option name="myItemId" value="fetch api" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -310,20 +289,20 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
-  <component name="RunManager" selected="Node.js.promises.js">
-    <configuration default="false" name="howgeneraterworks.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="howgeneraterworks.js" working-dir="$PROJECT_DIR$/beerlocker">
+  <component name="RunManager" selected="Node.js.javascriptPromiseTimeout.js">
+    <configuration default="false" name="timeoutpromises.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="timeoutpromises.js" working-dir="$PROJECT_DIR$/fetch api">
       <method />
     </configuration>
-    <configuration default="false" name="weirdgenerator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="weirdgenerator.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="firstQ.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="firstQ.js" working-dir="$PROJECT_DIR$/fetch api/Qlibarary">
       <method />
     </configuration>
-    <configuration default="false" name="synchronous.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="synchronous.js" working-dir="$PROJECT_DIR$/synchronuscode">
+    <configuration default="false" name="promiseindetail.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="promiseindetail.js" working-dir="$PROJECT_DIR$/fetch api/Qlibarary">
       <method />
     </configuration>
-    <configuration default="false" name="withcallback.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="withcallback.js" working-dir="$PROJECT_DIR$/synchronuscode">
+    <configuration default="false" name="rsvp.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="rsvp.js" working-dir="$PROJECT_DIR$/fetch api">
       <method />
     </configuration>
-    <configuration default="false" name="promises.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="promises.js" working-dir="$PROJECT_DIR$/synchronuscode">
+    <configuration default="false" name="javascriptPromiseTimeout.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="javascriptPromiseTimeout.js" working-dir="$PROJECT_DIR$/fetch api">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -386,19 +365,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.howgeneraterworks.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.weirdgenerator.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.synchronous.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.withcallback.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.promises.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.timeoutpromises.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.firstQ.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.promiseindetail.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.rsvp.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.javascriptPromiseTimeout.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.promises.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.withcallback.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.synchronous.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.weirdgenerator.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.howgeneraterworks.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.javascriptPromiseTimeout.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.rsvp.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.promiseindetail.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.firstQ.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.timeoutpromises.js" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +395,7 @@
       <workItem from="1487781005377" duration="7092000" />
       <workItem from="1487858253285" duration="4463000" />
       <workItem from="1487867374611" duration="46000" />
-      <workItem from="1487867426123" duration="12266000" />
+      <workItem from="1487867426123" duration="16720000" />
     </task>
     <servers />
   </component>
@@ -429,13 +408,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24422000" />
+    <option name="totallyTimeSpent" value="28876000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1428" y="123" width="973" height="1177" extended-state="0" />
+    <frame x="891" y="123" width="1510" height="1177" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2394958" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1531229" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -467,50 +446,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/promised-map-test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/server-test.js" />
-    <entry file="file://$PROJECT_DIR$/test/delayed-map-test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/factorial.js" />
-    <entry file="file://$PROJECT_DIR$/lib/converter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/fact.test.js" />
-    <entry file="file://$PROJECT_DIR$/mocha-babel.js" />
-    <entry file="file://$PROJECT_DIR$/test/babel-mocha-test.js" />
-    <entry file="file://$PROJECT_DIR$/lib/funcs.js" />
-    <entry file="file://$PROJECT_DIR$/test/converter.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/contact.js" />
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/fixtures/lookupLocation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -782,14 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beerlocker/howgeneraterworks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weirdgenerator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="447">
@@ -834,14 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/synchronuscode/promises.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/synchronuscode/Generators/Yields.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
@@ -854,9 +773,129 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/synchronuscode/Async/Await (ES7).js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="173" lean-forward="false" selection-start-line="6" selection-start-column="173" selection-end-line="6" selection-end-column="173" />
+        <state relative-caret-position="450">
+          <caret line="32" column="15" lean-forward="true" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/synchronuscode/promises.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/fetch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/howgeneraterworks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/promiseasynch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="12" column="253" lean-forward="false" selection-start-line="12" selection-start-column="253" selection-end-line="12" selection-end-column="253" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/multiplepromises.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/PromisesNepotism.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="37" column="32" lean-forward="false" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/timeoutpromises.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/Qlibarary/repos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/Qlibarary/firstQ.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/Qlibarary/promiseindetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+          <folding>
+            <element signature="e#137#179#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="34" column="77" lean-forward="false" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/AggregatingPromises.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/rsvp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#473#515#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/javascriptPromiseTimeout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="43" column="796" lean-forward="false" selection-start-line="43" selection-start-column="796" selection-end-line="43" selection-end-column="796" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

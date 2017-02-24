@@ -17,9 +17,11 @@
     "mongoose": "^4.8.4",
     "nock": "^0.34.1",
     "node-fetch": "^1.6.3",
+    "node-xhr": "^1.0.5",
     "remote-data-js": "^0.2.1",
     "supertest": "^3.0.0",
-    "supertest-as-promised": "^4.0.2"
+    "supertest-as-promised": "^4.0.2",
+    "xmlhttprequest": "^1.8.0"
   },
   "engines": {
     "node": ">=0.8"

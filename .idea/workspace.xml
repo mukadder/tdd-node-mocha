@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9c7e8c9-03d4-450d-bf3d-06ad704058cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weirdgenerator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beerlocker/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beerlocker/howgeneraterworks.js" afterPath="$PROJECT_DIR$/beerlocker/howgeneraterworks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weirdgenerator.js" afterPath="$PROJECT_DIR$/weirdgenerator.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,48 +24,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="readallfiles.inparralel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/readallfiles.inparralel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-              <folding>
-                <marker date="1487876322000" expanded="true" signature="113:1079" ph="{...}" />
-                <marker date="1487876322000" expanded="true" signature="130:188" ph="{...}" />
-                <marker date="1487876322000" expanded="true" signature="194:1077" ph="{...}" />
-                <marker date="1487876322000" expanded="true" signature="342:443" ph="{...}" />
-                <marker date="1487876322000" expanded="true" signature="520:1071" ph="{...}" />
-                <marker date="1487876322000" expanded="true" signature="615:1059" ph="{...}" />
-                <marker date="1487876322000" expanded="true" signature="646:716" ph="{...}" />
-                <marker date="1487876322000" expanded="true" signature="722:849" ph="{...}" />
-                <marker date="1487876322000" expanded="true" signature="920:1045" ph="{...}" />
-                <marker date="1487876322000" expanded="false" signature="1081:1123" ph="/** Created by mukadder on 2/23/17. ...*/" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readfilessequentiallycallbacks.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beerlocker/readfilessequentiallycallbacks.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-              <folding>
-                <marker date="1487876497000" expanded="false" signature="0:42" ph="/** Created by mukadder on 2/23/17. ...*/" />
-                <marker date="1487876497000" expanded="true" signature="175:1008" ph="{...}" />
-                <marker date="1487876497000" expanded="true" signature="194:254" ph="{...}" />
-                <marker date="1487876497000" expanded="true" signature="260:1006" ph="{...}" />
-                <marker date="1487876497000" expanded="true" signature="410:976" ph="{...}" />
-                <marker date="1487876497000" expanded="true" signature="453:601" ph="{...}" />
-                <marker date="1487876497000" expanded="true" signature="607:965" ph="{...}" />
-                <marker date="1487876497000" expanded="true" signature="677:949" ph="{...}" />
-                <marker date="1487876497000" expanded="true" signature="712:805" ph="{...}" />
-                <marker date="1487876497000" expanded="true" signature="811:931" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="readfilepromise.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beerlocker/modals/readfilepromise.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -178,21 +138,43 @@
       <file leaf-file-name="howgeneraterworks.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beerlocker/howgeneraterworks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="12">
+              <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="weirdgenerator.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="weirdgenerator.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weirdgenerator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="39" column="15" lean-forward="true" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+            <state relative-caret-position="447">
+              <caret line="145" column="9" lean-forward="true" selection-start-line="145" selection-start-column="9" selection-end-line="145" selection-end-column="9" />
               <folding>
-                <element signature="e#331#373#0" expanded="false" />
+                <element signature="e#462#504#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beerlocker/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2385">
+              <caret line="159" column="24" lean-forward="false" selection-start-line="159" selection-start-column="24" selection-end-line="159" selection-end-column="24" />
+              <folding>
+                <element signature="e#3538#3580#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/beerlocker/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="7" lean-forward="false" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -202,8 +184,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -261,6 +243,8 @@
         <option value="$PROJECT_DIR$/beerlocker/asynchcoffee.js" />
         <option value="$PROJECT_DIR$/beerlocker/howgeneraterworks.js" />
         <option value="$PROJECT_DIR$/weirdgenerator.js" />
+        <option value="$PROJECT_DIR$/beerlocker/script.js" />
+        <option value="$PROJECT_DIR$/beerlocker/index.html" />
       </list>
     </option>
   </component>
@@ -443,7 +427,7 @@
       <workItem from="1487781005377" duration="7092000" />
       <workItem from="1487858253285" duration="4463000" />
       <workItem from="1487867374611" duration="46000" />
-      <workItem from="1487867426123" duration="8106000" />
+      <workItem from="1487867426123" duration="9456000" />
     </task>
     <servers />
   </component>
@@ -456,7 +440,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20262000" />
+    <option name="totallyTimeSpent" value="21612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1428" y="123" width="973" height="1177" extended-state="0" />
@@ -467,7 +451,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -494,21 +478,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/bank-account.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-726">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/bank-account.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -861,19 +830,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/beerlocker/howgeneraterworks.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="12">
+          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/weirdgenerator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="39" column="15" lean-forward="true" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+        <state relative-caret-position="447">
+          <caret line="145" column="9" lean-forward="true" selection-start-line="145" selection-start-column="9" selection-end-line="145" selection-end-column="9" />
           <folding>
-            <element signature="e#331#373#0" expanded="false" />
+            <element signature="e#462#504#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="159" column="24" lean-forward="false" selection-start-line="159" selection-start-column="24" selection-end-line="159" selection-end-column="24" />
+          <folding>
+            <element signature="e#3538#3580#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="7" lean-forward="false" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>

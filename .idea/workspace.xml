@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9c7e8c9-03d4-450d-bf3d-06ad704058cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/bluebird.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/error-callbacks-node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/error-callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/finalGenerator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/synchronous-exception.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/synchronous-return-value.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/typegenerTOR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascriptprototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/closuredoneright.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/closuredonewrong.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/closureinnutshell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/countdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/patternmatc hing.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,13 +25,59 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="javascriptprototype.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascriptprototype.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="closureinnutshell.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/closureinnutshell.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="241" lean-forward="false" selection-start-line="16" selection-start-column="241" selection-end-line="16" selection-end-column="241" />
+            <state relative-caret-position="420">
+              <caret line="30" column="116" lean-forward="false" selection-start-line="30" selection-start-column="116" selection-end-line="30" selection-end-column="116" />
+              <folding>
+                <element signature="n#!!doc;n#make_calculator#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="closuredoneright.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/closuredoneright.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="patternmatc hing.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/patternmatc hing.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countdown.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/countdown.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+              <folding>
+                <element signature="e#393#434#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="closuredonewrong.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/closuredonewrong.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#349#391#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,6 +88,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -59,11 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/tdd-test.js" />
-        <option value="$PROJECT_DIR$/lib/tags.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/beerlocker/modals/beer.js" />
-        <option value="$PROJECT_DIR$/beerlocker/swerver.js" />
         <option value="$PROJECT_DIR$/beerlocker/asynch.js" />
         <option value="$PROJECT_DIR$/beerlocker/remotedata.js" />
         <option value="$PROJECT_DIR$/beerlocker/asynch-broken.js" />
@@ -110,6 +150,11 @@
         <option value="$PROJECT_DIR$/fetch api/error-callbacks-node.js" />
         <option value="$PROJECT_DIR$/fetch api/typegenerTOR.js" />
         <option value="$PROJECT_DIR$/javascriptprototype.js" />
+        <option value="$PROJECT_DIR$/closureinnutshell.js" />
+        <option value="$PROJECT_DIR$/closuredoneright.ts" />
+        <option value="$PROJECT_DIR$/closuredonewrong.js" />
+        <option value="$PROJECT_DIR$/patternmatc hing.js" />
+        <option value="$PROJECT_DIR$/countdown.js" />
       </list>
     </option>
   </component>
@@ -157,20 +202,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tdd-node-mocha" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tdd-node-mocha" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fetch api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -186,20 +217,20 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
-  <component name="RunManager" selected="Node.js.typegenerTOR.js">
-    <configuration default="false" name="synchronous-return-value.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="synchronous-return-value.js" working-dir="$PROJECT_DIR$/fetch api">
+  <component name="RunManager" selected="Node.js.countdown.js">
+    <configuration default="false" name="closureinnutshell.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="closureinnutshell.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="synchronous-exception.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="synchronous-exception.js" working-dir="$PROJECT_DIR$/fetch api">
+    <configuration default="false" name="closuredonewrong.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="closuredonewrong.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="error-callbacks.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="error-callbacks.js" working-dir="$PROJECT_DIR$/fetch api">
+    <configuration default="false" name="closuredoneright.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="closuredoneright.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="error-callbacks-node.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="error-callbacks-node.js" working-dir="$PROJECT_DIR$/fetch api">
+    <configuration default="false" name="patternmatc hing.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="patternmatc hing.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="typegenerTOR.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="typegenerTOR.js" working-dir="$PROJECT_DIR$/fetch api">
+    <configuration default="false" name="countdown.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="countdown.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -262,19 +293,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.synchronous-return-value.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.synchronous-exception.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.error-callbacks.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.error-callbacks-node.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.typegenerTOR.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.closureinnutshell.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.closuredonewrong.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.closuredoneright.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.patternmatc hing.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.countdown.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.typegenerTOR.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.error-callbacks-node.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.error-callbacks.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.synchronous-exception.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.synchronous-return-value.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.countdown.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.patternmatc hing.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.closuredoneright.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.closuredonewrong.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.closureinnutshell.js" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +325,8 @@
       <workItem from="1487867374611" duration="46000" />
       <workItem from="1487867426123" duration="17614000" />
       <workItem from="1488212007422" duration="2075000" />
-      <workItem from="1488230551469" duration="34000" />
+      <workItem from="1488230551469" duration="2356000" />
+      <workItem from="1488470234149" duration="202000" />
     </task>
     <servers />
   </component>
@@ -307,33 +339,39 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31879000" />
+    <option name="totallyTimeSpent" value="34403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="625" y="23" width="1720" height="1177" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.133608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13301942" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/closuredoneright.js" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -345,35 +383,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/tdd-test.js" />
-    <entry file="file://$PROJECT_DIR$/test/supertest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beerlocker/modals/beer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beerlocker/swerver.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beerlocker/remotedata.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -691,9 +700,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javascriptprototype.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="241" lean-forward="false" selection-start-line="16" selection-start-column="241" selection-end-line="16" selection-end-column="241" />
+        <state relative-caret-position="255">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closureinnutshell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="116" lean-forward="false" selection-start-line="30" selection-start-column="116" selection-end-line="30" selection-end-column="116" />
+          <folding>
+            <element signature="n#!!doc;n#make_calculator#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closuredonewrong.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#349#391#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closuredoneright.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patternmatc hing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <folding>
+            <element signature="e#393#434#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

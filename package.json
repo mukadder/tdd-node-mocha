@@ -22,7 +22,8 @@
     "rsvp": "^3.3.3",
     "supertest": "^3.0.0",
     "supertest-as-promised": "^4.0.2",
-    "xmlhttprequest": "^1.8.0"
+    "xmlhttprequest": "^1.8.0",
+    "z": "0.0.5"
   },
   "engines": {
     "node": ">=0.8"

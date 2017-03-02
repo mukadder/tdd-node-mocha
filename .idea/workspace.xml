@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/generators/gen2.js" line="29" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c9c7e8c9-03d4-450d-bf3d-06ad704058cf" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/closuredoneright.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/closuredonewrong.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/closureinnutshell.js" />
@@ -9,6 +13,31 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/patternmatc hing.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+=======
+<<<<<<< HEAD
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generators/Iterable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generators/fibnachi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generators/gen2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generators/generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generators/genogen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generators/iteraterhowto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generators/powergenerator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generators/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generators/whatisiterable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fetch api/hoypromise.js" afterPath="$PROJECT_DIR$/fetch api/hoypromise.js" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/bluebird.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/error-callbacks-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/error-callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/finalGenerator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/synchronous-exception.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/synchronous-return-value.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fetch api/typegenerTOR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascriptprototype.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,10 +53,120 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="tdd-node-mocha" />
+  </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="closureinnutshell.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/closureinnutshell.js">
+=======
+<<<<<<< HEAD
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="promise.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generators/promise.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+              <folding>
+                <element signature="n#!!doc;n#tick1#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gen2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generators/gen2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+              <folding>
+                <element signature="n#!!doc;n#delay#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fibnachi.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generators/fibnachi.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <folding>
+                <element signature="n#!!doc;n#fibonacci#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="powergenerator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generators/powergenerator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <element signature="n#!!doc;n#powergenerator#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iteraterhowto.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generators/iteraterhowto.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="whatisiterable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generators/whatisiterable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Iterable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generators/Iterable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generators/generator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="genogen.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/generators/genogen.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+              <folding>
+                <element signature="e#713#755#0" expanded="false" />
+              </folding>
+=======
+    <leaf>
+      <file leaf-file-name="javascriptprototype.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascriptprototype.js">
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="30" column="116" lean-forward="false" selection-start-line="30" selection-start-column="116" selection-end-line="30" selection-end-column="116" />
@@ -54,6 +193,7 @@
             <state relative-caret-position="150">
               <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
             </state>
           </provider>
         </entry>
@@ -104,6 +244,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/test/tdd-test.js" />
+        <option value="$PROJECT_DIR$/lib/tags.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
+        <option value="$PROJECT_DIR$/beerlocker/modals/beer.js" />
+        <option value="$PROJECT_DIR$/beerlocker/swerver.js" />
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
         <option value="$PROJECT_DIR$/beerlocker/asynch.js" />
         <option value="$PROJECT_DIR$/beerlocker/remotedata.js" />
         <option value="$PROJECT_DIR$/beerlocker/asynch-broken.js" />
@@ -142,6 +293,19 @@
         <option value="$PROJECT_DIR$/fetch api/Qlibarary/promiseindetail.js" />
         <option value="$PROJECT_DIR$/fetch api/rsvp.js" />
         <option value="$PROJECT_DIR$/fetch api/javascriptPromiseTimeout.js" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/fetch api/hoypromise.ts" />
+        <option value="$PROJECT_DIR$/fetch api/hoypromise.js" />
+        <option value="$PROJECT_DIR$/generators/promise.js" />
+        <option value="$PROJECT_DIR$/generators/gen2.js" />
+        <option value="$PROJECT_DIR$/generators/fibnachi.js" />
+        <option value="$PROJECT_DIR$/generators/powergenerator.js" />
+        <option value="$PROJECT_DIR$/generators/iteraterhowto.js" />
+        <option value="$PROJECT_DIR$/generators/whatisiterable.js" />
+        <option value="$PROJECT_DIR$/generators/Iterable.js" />
+        <option value="$PROJECT_DIR$/generators/generator.js" />
+        <option value="$PROJECT_DIR$/generators/genogen.js" />
+=======
         <option value="$PROJECT_DIR$/fetch api/finalGenerator.js" />
         <option value="$PROJECT_DIR$/fetch api/bluebird.js" />
         <option value="$PROJECT_DIR$/fetch api/synchronous-return-value.js" />
@@ -150,11 +314,15 @@
         <option value="$PROJECT_DIR$/fetch api/error-callbacks-node.js" />
         <option value="$PROJECT_DIR$/fetch api/typegenerTOR.js" />
         <option value="$PROJECT_DIR$/javascriptprototype.js" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/closureinnutshell.js" />
         <option value="$PROJECT_DIR$/closuredoneright.ts" />
         <option value="$PROJECT_DIR$/closuredonewrong.js" />
         <option value="$PROJECT_DIR$/patternmatc hing.js" />
         <option value="$PROJECT_DIR$/countdown.js" />
+=======
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
       </list>
     </option>
   </component>
@@ -166,14 +334,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="x" value="690" />
+    <option name="y" value="23" />
+    <option name="width" value="590" />
+    <option name="height" value="722" />
+=======
     <option name="x" value="625" />
     <option name="y" value="23" />
     <option name="width" value="1720" />
     <option name="height" value="1177" />
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -190,6 +362,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+      <pane id="Scratches" />
+=======
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -202,9 +378,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
+=======
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdd-node-mocha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdd-node-mocha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
       <pane id="Scratches" />
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
       <pane id="Scope" />
     </panes>
   </component>
@@ -217,8 +413,29 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Node.js.countdown.js">
     <configuration default="false" name="closureinnutshell.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="closureinnutshell.js" working-dir="$PROJECT_DIR$">
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Node.js.genogen.js">
+    <configuration default="false" name="powergenerator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="powergenerator.js" working-dir="$PROJECT_DIR$/generators">
+      <method />
+    </configuration>
+    <configuration default="false" name="iteraterhowto.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="iteraterhowto.js" working-dir="$PROJECT_DIR$/generators">
+      <method />
+    </configuration>
+    <configuration default="false" name="Iterable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Iterable.js" working-dir="$PROJECT_DIR$/generators">
+      <method />
+    </configuration>
+    <configuration default="false" name="generator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="generator.js" working-dir="$PROJECT_DIR$/generators">
+      <method />
+    </configuration>
+    <configuration default="false" name="genogen.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="genogen.js" working-dir="$PROJECT_DIR$/generators">
+=======
+  <component name="RunManager" selected="Node.js.typegenerTOR.js">
+    <configuration default="false" name="synchronous-return-value.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="synchronous-return-value.js" working-dir="$PROJECT_DIR$/fetch api">
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
       <method />
     </configuration>
     <configuration default="false" name="closuredonewrong.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="closuredonewrong.js" working-dir="$PROJECT_DIR$">
@@ -230,7 +447,12 @@
     <configuration default="false" name="patternmatc hing.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="patternmatc hing.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="countdown.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="countdown.js" working-dir="$PROJECT_DIR$">
+=======
+    <configuration default="false" name="typegenerTOR.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="typegenerTOR.js" working-dir="$PROJECT_DIR$/fetch api">
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -273,7 +495,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
+      <command value="run-script" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -293,6 +515,7 @@
       <method />
     </configuration>
     <list size="5">
+<<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="Node.js.closureinnutshell.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.closuredonewrong.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.closuredoneright.js" />
@@ -306,6 +529,37 @@
         <item index="2" class="java.lang.String" itemvalue="Node.js.closuredoneright.js" />
         <item index="3" class="java.lang.String" itemvalue="Node.js.closuredonewrong.js" />
         <item index="4" class="java.lang.String" itemvalue="Node.js.closureinnutshell.js" />
+=======
+<<<<<<< HEAD
+      <item index="0" class="java.lang.String" itemvalue="Node.js.powergenerator.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.iteraterhowto.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Iterable.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.generator.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.genogen.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.genogen.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.generator.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Iterable.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.iteraterhowto.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.powergenerator.js" />
+=======
+      <item index="0" class="java.lang.String" itemvalue="Node.js.synchronous-return-value.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.synchronous-exception.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.error-callbacks.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.error-callbacks-node.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.typegenerTOR.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.typegenerTOR.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.error-callbacks-node.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.error-callbacks.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.synchronous-exception.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.synchronous-return-value.js" />
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
       </list>
     </recent_temporary>
   </component>
@@ -323,10 +577,19 @@
       <workItem from="1487781005377" duration="7092000" />
       <workItem from="1487858253285" duration="4463000" />
       <workItem from="1487867374611" duration="46000" />
+<<<<<<< HEAD
+      <workItem from="1487867426123" duration="16720000" />
+      <workItem from="1487996095433" duration="12671000" />
+=======
       <workItem from="1487867426123" duration="17614000" />
       <workItem from="1488212007422" duration="2075000" />
+<<<<<<< HEAD
       <workItem from="1488230551469" duration="2356000" />
       <workItem from="1488470234149" duration="202000" />
+=======
+      <workItem from="1488230551469" duration="34000" />
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
     </task>
     <servers />
   </component>
@@ -339,21 +602,48 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="34403000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="41547000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="690" y="23" width="590" height="722" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2460457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <option name="totallyTimeSpent" value="31879000" />
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
   </component>
   <component name="ToolWindowManager">
     <frame x="625" y="23" width="1720" height="1177" extended-state="0" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13301942" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.133608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+<<<<<<< HEAD
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -361,7 +651,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -369,7 +658,11 @@
     <option name="processedProjectFiles" value="true" />
     <option name="exactExcludedFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/closuredoneright.js" />
+=======
+        <option value="$PROJECT_DIR$/fetch api/hoypromise.js" />
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
       </list>
     </option>
   </component>
@@ -383,6 +676,41 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/test/tdd-test.js" />
+    <entry file="file://$PROJECT_DIR$/test/supertest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/modals/beer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beerlocker/swerver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> de2262d1b4a2584f778a2a232208c5803488d6c3
     <entry file="file://$PROJECT_DIR$/beerlocker/remotedata.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -464,6 +792,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="519">
           <caret line="89" column="45" lean-forward="false" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+<<<<<<< HEAD
+          <folding />
+=======
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
         </state>
       </provider>
     </entry>
@@ -478,6 +810,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="64" column="24" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+<<<<<<< HEAD
+          <folding />
+=======
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
         </state>
       </provider>
     </entry>
@@ -581,14 +917,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fetch api/multiplepromises.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="360">
           <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fetch api/PromisesNepotism.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="555">
           <caret line="37" column="32" lean-forward="false" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
         </state>
       </provider>
@@ -618,6 +954,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+<<<<<<< HEAD
+          <folding>
+            <element signature="e#137#179#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="77" lean-forward="false" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+          <folding />
+=======
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
         </state>
       </provider>
     </entry>
@@ -628,15 +978,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fetch api/rsvp.js">
+    <entry file="file://$PROJECT_DIR$/fetch api/javascriptPromiseTimeout.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="574">
+          <caret line="43" column="796" lean-forward="false" selection-start-line="43" selection-start-column="796" selection-end-line="43" selection-end-column="796" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fetch api/javascriptPromiseTimeout.js">
+    <entry file="file://$PROJECT_DIR$/fetch api/rsvp.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="338">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#473#515#0" expanded="false" />
+          </folding>
+=======
+        <state relative-caret-position="345">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch api/hoypromise.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="1155">
+          <caret line="77" column="30" lean-forward="false" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc;n#tick1#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/gen2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc;n#delay#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/fibnachi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc;n#fibonacci#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/powergenerator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc;n#powergenerator#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/iteraterhowto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+=======
         <state relative-caret-position="615">
           <caret line="43" column="796" lean-forward="false" selection-start-line="43" selection-start-column="796" selection-end-line="43" selection-end-column="796" />
         </state>
@@ -730,6 +1153,41 @@
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
+>>>>>>> 50546d9b509c6bd1693bfe1903907ece7877f759
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/whatisiterable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/Iterable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/genogen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding>
+            <element signature="e#713#755#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

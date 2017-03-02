@@ -47,7 +47,7 @@ function launch() {
         }, 2*1000);    // a very fast rocket indeed
     });
 }
-const c = new Countdown(5)
+const c = new Countdown(15)
     .on('tick', i => console.log(i + '...'));
 
 c.go()
@@ -58,3 +58,30 @@ c.go()
     .catch(function(err) {
         console.error("Houston, we have a problem....");
     })
+
+function addTimeout(fn, timeout) {
+    if(timeout === undefined) timeout = 1000; // default timeout
+    return function(...args) {
+        return new Promise(function(resolve, reject) {
+            const tid = setTimeout(reject, timeout,
+                new Error("promise timed out"));
+            fn(...args)
+                .then(function(...args) {
+                    clearTimeout(tid);
+                    resolve(...args);
+                })
+                .catch(function(...args) {
+                    clearTimeout(tid);
+                    reject(...args);
+                });
+        });
+    }
+}
+c2.go()
+    .then(addTimeout(launch, 4*1000))
+    .then(function(msg) {
+        console.log(msg);
+    })
+    .catch(function(err) {
+        console.error("Houston, we have a problem: " + err.message);
+    });

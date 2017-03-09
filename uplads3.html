@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Limitless Image Upload</title>
+</head>
+<body>
+<h1>Welcome!</h1>
+<br>Please select an image
+<input type="file" id="image">
+<br>
+<img id="preview">
+
+<script>
+    function upload(file, signed_request, url, done) {
+        var xhr = new XMLHttpRequest()
+        xhr.open("PUT", signed_request)
+        xhr.setRequestHeader('x-amz-acl', 'public-read')
+        xhr.onload = function() {
+            if (xhr.status === 200) {
+                done()
+            }
+        }
+
+        xhr.send(file)
+    }
+/*
+ It’s quite a lot of code but don’t worry, it is very simple.
+
+ First at the beginning of the page we have a simple file field which the user can use to choose a file.
+
+ The more interesting part is in the JavaScript section at the bottom of the page. First, we listen to the change event of the file field with onchange which is fired when the user selects a file.
+
+ When fired we use the sign_request function to get a signed temporary URL where the browser can upload the file. Then again using AJAX you upload the file with the upload function to the temporary URL.
+
+ Once the file is uploaded we display it to the user.
+
+ This is everything that you have to do. As you can see the file never reaches your server. Only tiny little bit of data is actually handle by it. Almost the entire workload is handled by S3.
+
+ Don’t forget, S3 is great not only for uploading and storing files, but it is also very capable of serving files. It can easily server files of all sizes to millions of users simultaneously.
+
+
+ */
+    function sign_request(file, done) {
+        var xhr = new XMLHttpRequest()
+        xhr.open("GET", "/sign?file_name=" + file.name + "&file_type=" + file.type)
+
+        xhr.onreadystatechange = function() {
+            if(xhr.readyState === 4 && xhr.status === 200) {
+                var response = JSON.parse(xhr.responseText)
+                done(response)
+            }
+        }
+
+        xhr.send()
+    }
+
+    document.getElementById("image").onchange = function() {
+        var file = document.getElementById("image").files[0]
+        if (!file) return
+
+        sign_request(file, function(response) {
+            upload(file, response.signed_request, response.url, function() {
+                document.getElementById("preview").src = response.url
+            })
+        })
+    }
+</script>
+</body>
+</html>

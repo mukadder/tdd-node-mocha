@@ -1,0 +1,7 @@
+<h2>Employee Name and ID Summary</h2>
+
+<ul>
+	<li *ngFor="let employeeContact of employeeContacts"><a
+		[routerLink]="['/detail',  employeeContact.id ]">Name is {{employeeContact.name}}
+			&amp; ID is {{employeeContact.id}} </a></li>
+</ul>

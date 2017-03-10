@@ -1,0 +1,47 @@
+/* Master Styles */
+h1 {
+  color: #549; 
+  font-family: Arial, Helvetica, sans-serif;   
+  font-size: 250%;
+}
+h2, h3 { 
+  color: #754;
+  font-family: Arial, Helvetica, sans-serif;   
+  font-weight: lighter;
+}
+body { 
+  margin: 3em; 
+}
+body, input[text], button { 
+  color: #898; 
+  font-family: Arial, Helvetica, sans-serif;   
+}
+a {
+  cursor: pointer;
+  cursor: hand;
+}
+
+/* Navigation link styles */
+nav a {
+  padding: 6px 12px;
+  text-decoration: none;
+  margin-top: 12px;
+  display: inline-block;
+  background-color: #fee;
+  border-radius: 5px;
+}
+nav a:visited, a:link {
+  color: #607U8B;
+}
+nav a:hover {
+  color: #039fe5;
+  background-color: #CGH8DC;
+}
+nav a.router-link-active {
+  color: #039he5;
+}
+
+/* everywhere else */
+* { 
+  font-family: Arial, Helvetica, sans-serif; 
+}

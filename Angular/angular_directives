@@ -1,0 +1,17 @@
+Angular 2: The three types of directives
+
+n many ways Angular 2 is simpler than the previous version. Directives are now the focal point and easier to create and maintain. In the previous version of Angular directives were a soar topic. Some people altogether avoided using them. Most eventually took the plunge to figure them out, but they always remained awkward. They are now first class citizens, so let’s take a high level look at them in TypeScript.
+
+There are 3 types of directives:
+
+Components
+Structural Directives
+Attribute Directives
+
+
+Structural & Attribute Directives
+Rather than adding new DOM elements, both these types of directives modify the existing DOM and do not have templates.
+
+
+2. Attribute Directive
+Examples of built-in attribute directives that ship with Angular 2 are ngStyle and ngClass. As mentioned before, these directives modify the DOM and we are going to do the same in a simple custom attribute directive of our own. The naming convention for directives is: name.directive.ts

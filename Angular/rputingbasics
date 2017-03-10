@@ -1,0 +1,58 @@
+To achieve routing in the Angular2 there are mainly three components are there, those are mentioned below.
+
+Routes
+RouterOutlet
+RouterLink
+
+Routes
+
+Route is an object that we use on our application component that describes the routes we want to use. For instance, we could write our routes like this:
+
+export const routes: Routes = [
+
+  { path: '', component: HomeComponent },
+
+  { path: 'about', component: AboutComponent}
+
+];
+
+Routes are array of key value pair. It consists of two attributes path and component. Path refers to the URL has to displayed in the browser and the component contains the logic to redirect the respective page.
+
+The idea is that we might put our home page at the URL /home and our about page at /about. In Angular 2, we’d have a HomeComponent for the /home page and AboutComponent for the /about page. In the common case, a router lets us map these URLs to a component.
+outerOutlet
+
+The RouterOutlet directive tells our router where to render the content in the view.
+
+For instance, if we have a view:
+@Component({
+
+  selector: 'demo-app',
+
+  template: `
+
+    <a [routerLink]="['/']">Home</a>
+
+    <a [routerLink]="['/about']">About</a>
+
+    <div>
+
+       <router-outlet></router-outlet>
+
+    </div>
+
+    `
+
+})
+
+export class AppComponent { }
+In the above Component we have <router-outlet> inside a div. This directive refers to load the view during runtime with the view content.
+
+RouterLink
+
+If we want to navigate between routes, we use the RouterLink directive. So if we wanted to link to our home and about page from a navigation, we could change our view above to something like this:
+
+<a [routerLink]="['/']">Home</a>
+
+<a [routerLink]="['/about']">About</a>
+
+In the above code snippet, routerLink is defined. In the above example home is the default page, / will also redirect on the home page and on click on Home it will redirect to the /about page.

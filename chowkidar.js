@@ -4,7 +4,7 @@
 var chokidar = require('chokidar');
 
 // One-liner for current directory, ignores .dotfiles
-chokidar.watch('/Users/mukadder/git/kuali-research', {ignored: /(^|[\/\\])\../}).on('all', (event, path) => {
+chokidar.watch('/Users/mukadder/git/kuali-research/coeus-webapp/src/main/webapp/WEB-INF/jsp', {ignored: /(^|[\/\\])\../}).on('all', (event, path) => {
     console.log(event, path);
 });
 // Example of a more typical implementation structure:
